@@ -59,7 +59,6 @@ Cada categoria possui uma mensagem de orientação de acordo com os resultados o
 
 - JavaScript
 - HTML
-- CSS
 
 ## 🎯 Objetivo
 
